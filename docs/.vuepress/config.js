@@ -1,7 +1,7 @@
 module.exports = {
     title: '这里是标题',
     description: '这里是描述',
-    base: '/',
+    base: '/blog/',
     dest: './docs/.vuepress/dist',
     ga: '',
     evergreen: true,
